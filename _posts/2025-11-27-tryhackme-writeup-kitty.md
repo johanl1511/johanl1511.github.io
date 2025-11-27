@@ -10,4 +10,4 @@ image:
 
 ## Reconocimiento
 
-Aquí empiezas a escribir tu writeup en Markdown normal.
+Prueba
