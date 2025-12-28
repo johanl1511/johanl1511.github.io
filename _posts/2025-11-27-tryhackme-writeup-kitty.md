@@ -11,6 +11,10 @@ image:
 
 This is my very first write-up on this brand-new blog. I still have a few things to polish here and there, but I really hope you enjoy it and find it helpful.
 
+You can access this room at the following link:
+
+[Kitty Room TryHackMe](https://tryhackme.com/room/kitty){:target="_blank"}
+
 Without further delay… let’s jump right in.
 
 ## Active Recon

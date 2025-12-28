@@ -2,7 +2,7 @@
 title: "Writeup Hack The Box: Skills Assessment - Password Attacks"
 date: 2025-12-19 10:35:00 -0500
 categories: [SkillsAssessment, HTB]
-tags: []
+tags: [pivoting, active_directory, password_attacks]
 image:
   path: /assets/img/passwordattacks/password_attacks_main.webp
 ---
